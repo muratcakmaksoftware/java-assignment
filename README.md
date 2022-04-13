@@ -1,8 +1,8 @@
 # java-assignment
 
 a-) 
-Verilen bir metindeki kelimelerin harflerinin siralamasmi tersine ceviren ama kelimelerin
-sirlamasini degistirmeyen bir program yazmiz. Programm yktisi asagidaki gibi olmalidir:
+Verilen bir metindeki kelimelerin harflerinin sıralamasını tersine çeviren ama kelimelerin
+sıralamasını değiştirmeyen bir program yazınız. Program çıktısı aşağıdaki gibi olmalıdır:
 
       Enter a text : Hello World
       Reversed     : olleH diroW
@@ -12,9 +12,9 @@ sirlamasini degistirmeyen bir program yazmiz. Programm yktisi asagidaki gibi olm
 b-) 
 
 Parametre olarak bir metni String olarak alan ve bu metindeki her kelimenin ikinci 'a'
-harfini buyiiguyie yani 'A' ile degistiren bir metot yazma. Eger kelime 'a' ile bashyorsa bu 'a' 
-sayilmamahchr. Metot degistirilmis metni String tipinde dondlirmelidir. Programin gtktist 
-asagidaki gibi olmandir:
+harfini büyüğüyle yani 'A' ile değiştiren bir metot yazınız. Eğer kelime 'a' ile başlıyorsa bu 'a' 
+sayılmamalıdır. Fonksiyonda değiştirilmiş metni String tipinde döndermelidir. programın çıktısı
+aşağıdaki gibi olmalıdır:
 
       Enter a text  : aabc 
       Converted     : aabc 
@@ -25,10 +25,10 @@ asagidaki gibi olmandir:
 
 c-) 
 
-Bir String nesnesindeki her 'C karakterine karsihk, daha sonra gelen bir ')' karakteri varsa o 
-String nesnesine parantez dengelidir denir. Parametre olarak aldigi bir String nesnesinin 
-parantez-dengeli olup olmadigini boolean tipinde demckiren bir metot yazina. Bu metodu 
-kullanarak ciktisu asagidaki gibi olan bir program yazma.
+Bir String nesnesindeki her '(' karakterine karşılık, daha sonra gelen bir ')' karakteri varsa o 
+String nesnesine parantez dengelidir denir. Parametre olarak aldığı bir String nesnesinin 
+parantez-dengeli olup olmadığını boolean tipinde döndüren bir metot yazınız. Bu metodu 
+kullanarak çıktısı aşağıdaki gibi olan bir program yazınız.
 
       Enter a String: (((a))
       This string is not parenthesis-balanced. 
